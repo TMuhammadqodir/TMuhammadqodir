@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- WIDESCREEN CINEMATIC GARGANTUA HERO BANNER -->
-<img width="100%" src="https://raw.githubusercontent.com/TMuhammadqodir/TMuhammadqodir/main/assets/gargantua-banner.jpg" alt="Gargantua Singularity" style="max-height: 480px; width: 100%; object-fit: cover; border-radius: 4px;" />
+<img width="100%" src="https://raw.githubusercontent.com/TMuhammadqodir/TMuhammadqodir/main/assets/gargantua-banner.gif" alt="Gargantua Singularity" style="max-height: 480px; width: 100%; object-fit: cover; border-radius: 4px;" />
 
 <br/><br/>
 

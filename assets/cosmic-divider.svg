@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="100%" height="40" fill="none">
+  <defs>
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#0284c7" stop-opacity="0.3"/>
+      <stop offset="48%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#e0f2fe" stop-opacity="1"/>
+      <stop offset="52%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#0284c7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes pulseCore {
+      0%, 100% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.35); opacity: 1; }
+    }
+    @keyframes starTwinkle {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 0.9; }
+    }
+    .pulsing-star {
+      transform-origin: 600px 20px;
+      animation: pulseCore 3s ease-in-out infinite;
+    }
+    .twinkle-1 { animation: starTwinkle 2s ease-in-out infinite; }
+    .twinkle-2 { animation: starTwinkle 3.5s ease-in-out infinite 1s; }
+    .twinkle-3 { animation: starTwinkle 2.7s ease-in-out infinite 0.5s; }
+  </style>
+
+  <!-- Stars along divider -->
+  <circle cx="150" cy="18" r="1.5" fill="#38bdf8" class="twinkle-1" />
+  <circle cx="320" cy="24" r="1.2" fill="#bae6fd" class="twinkle-2" />
+  <circle cx="450" cy="15" r="1.8" fill="#e0f2fe" class="twinkle-3" />
+  <circle cx="750" cy="25" r="1.5" fill="#bae6fd" class="twinkle-1" />
+  <circle cx="890" cy="16" r="1.2" fill="#38bdf8" class="twinkle-2" />
+  <circle cx="1040" cy="22" r="1.6" fill="#e0f2fe" class="twinkle-3" />
+
+  <!-- Laser Beam -->
+  <line x1="50" y1="20" x2="1150" y2="20" stroke="url(#laserGrad)" stroke-width="1.8" filter="url(#glow)"/>
+
+  <!-- Central Stellar Diamond / Core -->
+  <g class="pulsing-star" filter="url(#glow)">
+    <polygon points="600,10 605,20 600,30 595,20" fill="#e0f2fe"/>
+    <circle cx="600" cy="20" r="2.5" fill="#ffffff" />
+  </g>
+</svg>

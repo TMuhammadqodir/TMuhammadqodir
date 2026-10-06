@@ -58,24 +58,6 @@
 
 <br/>
 
-### 🛰️ &nbsp;ORBITAL FLIGHT MANIFEST & DEPLOYED SYSTEMS
-
-<br/>
-
-| SYSTEM | NATURE | CORE ARCHITECTURE | REPOSITORY |
-| :--- | :--- | :--- | :---: |
-| **FlightBookingSystem** | Aviation & Reservation Engine | C# • ASP.NET Core • Clean Architecture | [Explore →](https://github.com/TMuhammadqodir/FlightBookingSystem) |
-| **TgBotEcommerce** | Autonomous Commerce Bot | C# • Telegram Engine • PostgreSQL | [Explore →](https://github.com/TMuhammadqodir/TgBotEcommerce) |
-| **TopMarket** | Scalable Retail Platform | C# • Distributed Services • MVC | [Explore →](https://github.com/TMuhammadqodir/TopMarket) |
-| **LibraryOfBooks** | Digital Information Archive | C# • Entity Framework Core • SQL Server | [Explore →](https://github.com/TMuhammadqodir/LibraryOfBooks) |
-
-<br/><br/>
-
-<!-- ACCRETION DISK LASER DIVIDER -->
-<img width="100%" src="https://raw.githubusercontent.com/TMuhammadqodir/TMuhammadqodir/main/assets/gargantua-divider.svg" alt="Accretion Divider" />
-
-<br/>
-
 ### ☄️ &nbsp;GRAVITATIONAL CONTRIBUTION TRAJECTORY
 
 <br/>

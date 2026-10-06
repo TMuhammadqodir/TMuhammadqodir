@@ -58,6 +58,49 @@
 
 <br/>
 
+### 📡 &nbsp;MISSION DIRECTIVE // ABOUT & CORE FOCUS
+
+<br/>
+
+<table align="center" width="85%" style="border: none; background: transparent;">
+  <tr>
+    <td align="left">
+      <blockquote>
+        🔭 <b>Primary Domain:</b> Robust backend architecture, scalable microservices, and distributed platforms using <b>C# &amp; .NET 8/9</b>.<br/>
+        ⚡ <b>Design Philosophy:</b> Clean Architecture, Domain-Driven Design (DDD), CQRS pattern, and strict asynchronous performance.<br/>
+        🗄️ <b>Data Persistence:</b> PostgreSQL, Microsoft SQL Server, Entity Framework Core, Redis caching.<br/>
+        🛰️ <b>Status &amp; Availability:</b> Open for high-impact backend engineering challenges, remote platforms, and collaboration.
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ACCRETION DISK LASER DIVIDER -->
+<img width="100%" src="https://raw.githubusercontent.com/TMuhammadqodir/TMuhammadqodir/main/assets/gargantua-divider.svg" alt="Accretion Divider" />
+
+<br/>
+
+### 📊 &nbsp;DEEP SPACE TELEMETRY & METRICS
+
+<br/>
+
+<a href="https://github.com/TMuhammadqodir">
+  <img src="https://github-readme-stats.vercel.app/api?username=TMuhammadqodir&show_icons=true&title_color=f59e0b&text_color=e5e7eb&icon_color=f59e0b&border_color=1c1917&bg_color=0c0a09" alt="GitHub Metrics" />
+</a>
+&nbsp;
+<a href="https://github.com/TMuhammadqodir">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMuhammadqodir&layout=compact&title_color=f59e0b&text_color=e5e7eb&icon_color=f59e0b&border_color=1c1917&bg_color=0c0a09" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- ACCRETION DISK LASER DIVIDER -->
+<img width="100%" src="https://raw.githubusercontent.com/TMuhammadqodir/TMuhammadqodir/main/assets/gargantua-divider.svg" alt="Accretion Divider" />
+
+<br/>
+
 ### ☄️ &nbsp;GRAVITATIONAL CONTRIBUTION TRAJECTORY
 
 <br/>
@@ -84,8 +127,20 @@
 
 <br/>
 
-<a href="https://github.com/TMuhammadqodir">
-  <img src="https://img.shields.io/badge/TRANSMISSION_LINK-CONNECTED-f59e0b?style=for-the-badge&logo=github&logoColor=black&labelColor=0c0a09" alt="Connect Link"/>
+### 🛰️ &nbsp;TRANSMISSION BEACONS // GET IN TOUCH
+
+<br/>
+
+<a href="mailto:muhammadqodirturdiyev65@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-muhammadqodirturdiyev65@gmail.com-1c1917?style=for-the-badge&logo=gmail&logoColor=f59e0b&labelColor=0c0a09&color=f59e0b" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://t.me/TMuhammadqodir">
+  <img src="https://img.shields.io/badge/TELEGRAM-@TMuhammadqodir-1c1917?style=for-the-badge&logo=telegram&logoColor=f59e0b&labelColor=0c0a09&color=f59e0b" alt="Telegram"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammadqodir-turdiyev">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECTED-1c1917?style=for-the-badge&logo=linkedin&logoColor=f59e0b&labelColor=0c0a09&color=f59e0b" alt="LinkedIn"/>
 </a>
 
 <br/><br/>

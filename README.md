@@ -5,13 +5,6 @@
 
 <br/><br/>
 
-<!-- ANIMATED SPINNING ACCRETION DISK CORE -->
-<a href="https://github.com/TMuhammadqodir">
-  <img src="https://raw.githubusercontent.com/TMuhammadqodir/TMuhammadqodir/main/assets/gargantua.gif" width="140" alt="Spinning Accretion Disk" />
-</a>
-
-<br/><br/>
-
 # M U H A M M A D Q O D I R &nbsp; T U R D I Y E V
 
 <p>
